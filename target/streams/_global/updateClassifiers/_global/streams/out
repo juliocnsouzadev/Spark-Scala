@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/D:/Github/julio-repos/data-engineering-bootcamp/spark/scala/"), "scala")...
+[debug] Done updating ProjectRef(uri("file:/D:/Github/julio-repos/data-engineering-bootcamp/spark/scala/"), "scala")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
